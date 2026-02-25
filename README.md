@@ -71,7 +71,8 @@ Example:
 
 ### R scripts
 
-> TODO: add links to `.R` / `.Rmd` files here (I couldn’t locate them automatically yet).
+R - Survival Analysis with Time-Varying Covariates.R
+
 
 Example:
 - `path/to/script.R` — brief description
