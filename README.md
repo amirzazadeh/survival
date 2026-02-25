@@ -10,6 +10,8 @@ Applied **survival data analysis** using advanced statistical methods, including
 
 Implemented in **Stata** and **R**.
 
+ * Created by: Ali Mirzazadeh
+ * For questions or assistance: ali.mirzazadeh@ucsf.edu
 ---
 
 ## Overview
@@ -30,10 +32,20 @@ This repository demonstrates applied survival analysis using classical and exten
 
 ---
 
+## Materials
+
+- **Slides**: [(Slides) - Survival Analysis with Time-Varying Covariates](<(Slides)%20-%20Survival%20Analysis%20with%20Time-Varying%20Covariates>)
+
+---
+
 ## Datasets
 
-- **Australian Methadone Study** (`ADDICTS`)  
-- **Stanford Heart Transplant Study** (`HEARTT`)
+Excel versions of the datasets used in the examples:
+
+- **Australian Methadone Study**: [`addicts.xlsx`](addicts.xlsx)  
+- **Stanford Heart Transplant Study**: [`HEARTT.xlsx`](HEARTT.xlsx)
+
+(If you later add other formats such as `.dta`/`.csv`, you can list them here as well.)
 
 ---
 
