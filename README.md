@@ -1,4 +1,5 @@
-# survival
+# Survival Data Analysis
+## Time-dependent covariates and extended Cox models
 
 Applied **survival data analysis** using advanced statistical methods, including:
 
