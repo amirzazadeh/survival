@@ -57,25 +57,18 @@ Packages / functions commonly used:
 - `coxph`
 - `cox.zph`
 
-R code: "R - Survival Analysis with Time-Varying Covariates.R"
 ---
 
 ## Code
 
 ### Stata scripts
 
-> TODO: add links to `.do` / `.ado` files here (I couldn’t locate them automatically yet).
-
-Example:
-- `path/to/script.do` — brief description
+- `Stata - Survival Analysis with Time-Varying Covariates.do`
 
 ### R scripts
 
-R - Survival Analysis with Time-Varying Covariates.R
+- `R - Survival Analysis with Time-Varying Covariates.R`
 
-
-Example:
-- `path/to/script.R` — brief description
 
 ---
 
