@@ -85,7 +85,3 @@ R script: [`R - Survival Analysis with Time-Varying Covariates.R`](R%20-%20Survi
 - [`R - Survival Analysis with Time-Varying Covariates.R`](R%20-%20Survival%20Analysis%20with%20Time-Varying%20Covariates.R)
 
 ---
-
-## License
-
-Add a license file (e.g., MIT) if you plan to make reuse explicit.
