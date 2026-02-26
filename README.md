@@ -59,7 +59,7 @@ Common commands/features used:
 - `tvc()`
 - `stsplit`
 
-Do file: [`Stata - Survival Analysis with Time-Varying Covariates.do`](Stata%20-%20Survival%20Analysis%20with%20Time-Varying%20Covariates.do)
+Do file: [`Stata - Survival Analysis with Time-Varying Covariates.do`](Stata_Survival_Analysis_with_TimeVarying_Covariates.do)
 
 ### R
 
@@ -69,7 +69,7 @@ Packages / functions commonly used:
 - `coxph`
 - `cox.zph`
 
-R script: [`R - Survival Analysis with Time-Varying Covariates.R`](R%20-%20Survival%20Analysis%20with%20Time-Varying%20Covariates.R)
+R script: [`R - Survival Analysis with Time-Varying Covariates.R`](R_SurvivalAnalysis_with_TimeVarying_Covariates.R)
 
 ---
 
@@ -77,10 +77,10 @@ R script: [`R - Survival Analysis with Time-Varying Covariates.R`](R%20-%20Survi
 
 ### Stata scripts
 
-- [`Stata - Survival Analysis with Time-Varying Covariates.do`](Stata%20-%20Survival%20Analysis%20with%20Time-Varying%20Covariates.do)
+- [`Stata - Survival Analysis with Time-Varying Covariates.do`](Stata_Survival_Analysis_with_TimeVarying_Covariates.do)
 
 ### R scripts
 
-- [`R - Survival Analysis with Time-Varying Covariates.R`](R%20-%20Survival%20Analysis%20with%20Time-Varying%20Covariates.R)
+- [`R - Survival Analysis with Time-Varying Covariates.R`](R_SurvivalAnalysis_with_TimeVarying_Covariates.R)
 
 ---
