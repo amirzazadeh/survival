@@ -18,7 +18,8 @@ library(survminer)
 library(broom)
 
 # ---- Change this to the folder that holds your data ----
-setwd("/Users/alimirzazadeh1/Box Sync/Vietman CDC Work/SI Activities 2025-2026")
+setwd("/Users/alimirzazadeh1/Documents/GitHub/survival")
+
 # -------------------------------------------------------
 
 # ------------------------------------------------------------------------------
@@ -146,6 +147,22 @@ summary(cox_ttv_manual)
 # ------------------------------------------------------------------------------
 # ===================== Heart Transplant Survival Analysis ======================
 # ------------------------------------------------------------------------------
+
+# -------------------------
+# 0. Setup
+# -------------------------
+# Install packages if needed:
+# install.packages(c("tidyverse","readxl","survival","survminer","broom"))
+
+library(tidyverse)
+library(readxl)
+library(survival)
+library(survminer)
+library(broom)
+
+# ---- Change this to the folder that holds your data ----
+setwd("/Users/alimirzazadeh1/Documents/GitHub/survival")
+
 
 # 1. Load data ----------------------------------------------------------------
 heart <- read_excel("HEARTT.xlsx", sheet = "data") %>% as_tibble()

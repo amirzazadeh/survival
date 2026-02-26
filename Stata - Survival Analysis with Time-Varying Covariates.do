@@ -10,7 +10,7 @@
 clear all
 set more off
 * change the working directory to the folder that contains the data file on your computer
-cd "/Users/alimirzazadeh1/Box Sync/Vietman CDC Work/SI Activities 2025-2026"
+cd "/Users/alimirzazadeh1/Documents/GitHub/survival"
 
 *---------------------------------------------------------------*
 * 1. Load data
@@ -153,7 +153,8 @@ stcox prison dose clinic, cformat(%9.3f) tvc(clinic) texp(_t) nohr
 clear all
 set more off
 * change the working directory to the folder that contains the data file on your computer
-cd "/Users/alimirzazadeh1/Box Sync/Vietman CDC Work/SI Activities 2025-2026"
+cd "/Users/alimirzazadeh1/Documents/GitHub/survival"
+
 
 *---------------------------------------------------------------*
 * 1. Load data
