@@ -35,7 +35,9 @@ This repository demonstrates applied survival analysis using classical and exten
 
 ## Materials
 
-- **Slides**: [(Slides) - Survival Analysis with Time-Varying Covariates](Slides_Survival_Analysis_with_TimeVarying_Covariates_Ali_Mirzazadeh.pptx)
+- **Slides in English**: [(Slides) - Survival Analysis with Time-Varying Covariates](Slides_Survival_Analysis_with_TimeVarying_Covariates_Ali_Mirzazadeh.pptx)
+- **Slides in Vietnamese**: [(Slides) - Survival Analysis with Time-Varying Covariates](Slides_inVietnamese_Survival_Analysis_with_TimeVarying_Covariates_Ali_Mirzazadeh.pptx)
+
 ---
 
 ## Datasets
